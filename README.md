@@ -7,4 +7,4 @@
    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <div align="center"> 
-적극적인 코드 리뷰 와 서로 소통하는 분위기를 함께 가꾸어 나가보아요 🏄‍♂️
+적극적인 코드 리뷰와 서로 소통하는 분위기를 함께 가꾸어 나가보아요 🏄‍♂️
